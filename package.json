@@ -8,9 +8,9 @@
     "dev": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "author": "Manthan Ankolekar",
+  "license": "MIT",
+  "description": "A simple image generation server using Gemini API",
   "dependencies": {
     "@google/generative-ai": "^0.24.0",
     "cors": "^2.8.5",
